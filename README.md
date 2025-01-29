@@ -73,7 +73,7 @@ This sentence-transformers model maps sentences and paragraphs to a 384-dimensio
 
 **Results:**
 
-Achieved 68% similarity score.
+Achieved 78% similarity score.
 
 Considering the context window limitations and the fact that training samples often exceeded the model's capacity, this score is a strong indicator of the model's ability to generate meaningful descriptions.
 
